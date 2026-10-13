@@ -1,5 +1,14 @@
 # MeshLink
 
+<p align="center">
+  <img src="./MeshLink.png" alt="MeshLink offline mesh chat interface" width="850">
+</p>
+
+<p align="center">
+  <em>Offline-first mesh chat for a local network — no internet, no central server.</em>
+</p>
+
+
 Offline-first mesh chat for a local network. When the internet is shut down, everyone still on the same wifi can keep talking: public channels, private end-to-end encrypted chats, and an SOS alert. One binary, zero dependencies.
 
 ## Problem
